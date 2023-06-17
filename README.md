@@ -326,7 +326,3 @@ yes
 ** the target program terminated.
 ```
 
-## Grading
-
-1. [30%] Your program has the correct output for all test cases listed in the [examples](#Examples) section.
-2. [70%] We use `N` additional test cases to evaluate your implementation. You get $\frac{70}{N}$ points for each correct test case.
